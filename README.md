@@ -1,0 +1,3 @@
+# MyTemplate
+
+Azure
